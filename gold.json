@@ -1,0 +1,1414 @@
+[
+  {
+    "dataset": "ctisum_attack",
+    "idx": 4,
+    "gold": {
+      "iocs": [
+        "doppleshare.top",
+        "atakai-technologies.host",
+        "akamai-technologies.site",
+        "akamai-technologies.space"
+      ],
+      "attack_techniques": [
+        "T1490",
+        "T1543",
+        "T1564"
+      ],
+      "threat_actor": [
+        "Evil Corp",
+        "Doppel Spider",
+        "Lockean"
+      ],
+      "malware": [
+        "Grief",
+        "DoppelPaymer",
+        "BitPaymer",
+        "Dridex",
+        "DoppelDridex",
+        "WastedLocker",
+        "Macaw",
+        "Emotet",
+        "QakBot",
+        "TinyLoader",
+        "TinyPos",
+        "FakeUpdates",
+        "Cobalt Strike",
+        "PowerShell Empire",
+        "PsExec",
+        "Mimikatz",
+        "LaZagne",
+        "ProcDump",
+        "LSASecretsView",
+        "ProcessHacker"
+      ],
+      "targeted_sectors": [
+        "manufacturing",
+        "logistics",
+        "finance",
+        "energy",
+        "real estate",
+        "government",
+        "services",
+        "travel",
+        "commerce",
+        "defense",
+        "telecom",
+        "healthcare",
+        "education",
+        "united states",
+        "europe"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 34,
+    "gold": {
+      "iocs": [
+        "dl.dropboxusercontent.com"
+      ],
+      "attack_techniques": [
+        "T1583",
+        "T1566",
+        "T1189",
+        "T1559",
+        "T1204",
+        "T1547",
+        "T1548",
+        "T1055",
+        "T1140",
+        "T1562",
+        "T1221",
+        "T1497",
+        "T1539",
+        "T1010",
+        "T1083",
+        "T1057",
+        "T1012",
+        "T1082",
+        "T1033",
+        "T1124",
+        "T1005",
+        "T1056",
+        "T1113",
+        "T1071",
+        "T1041"
+      ],
+      "threat_actor": [
+        "Lazarus"
+      ],
+      "malware": [
+        "IEUpdate.exe",
+        "hvncengine.dll",
+        "shellengine.dll"
+      ],
+      "targeted_sectors": [
+        "south korea"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 121,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Billbug"
+      ],
+      "malware": [
+        "Hannotog",
+        "Sagerunex",
+        "Stowaway",
+        "AdFind",
+        "WinRAR",
+        "NBTscan",
+        "Certutil",
+        "Winmail",
+        "Ping",
+        "Tracert",
+        "Route"
+      ],
+      "targeted_sectors": [
+        "government",
+        "defense",
+        "certificate authority",
+        "asia"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 133,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [
+        "BlackEnergy APT"
+      ],
+      "malware": [
+        "BlackEnergy"
+      ],
+      "targeted_sectors": [
+        "ukraine",
+        "ics",
+        "energy",
+        "government",
+        "media"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 180,
+    "gold": {
+      "iocs": [
+        "CVE-2016-7836"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "BRONZE BUTLER"
+      ],
+      "malware": [
+        "Daserf",
+        "Datper",
+        "xxmm",
+        "Gofarer",
+        "MSGet",
+        "DGet",
+        "RarStar",
+        "Mimikatz",
+        "Windows Credential Editor",
+        "gsecdump",
+        "T-SMB Scan",
+        "WinRAR"
+      ],
+      "targeted_sectors": [
+        "japan",
+        "critical infrastructure",
+        "heavy industry",
+        "manufacturing",
+        "international relations"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 196,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Aurora"
+      ],
+      "targeted_sectors": [
+        "google"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 200,
+    "gold": {
+      "iocs": [
+        "https://cdn.discordapp.com/attachments/908281957039869965/937420906286952568/d5aadb4ace8ffcc",
+        "http://eumr.site/up74987340.exe",
+        "http://eumr.site/load74h74830.exe",
+        "http://185.244.41.109:8080/upld",
+        "http://8003659902.space/wp-adm/gate.php",
+        "http://smm2021.net/wp-adm/gate.php",
+        "http://8003659902.site/wp-adm/gate.php",
+        "185.244.41.109",
+        "testsid@lthhc-zm.com"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "UAC-0056"
+      ],
+      "malware": [
+        "OutSteel",
+        "SaintBot"
+      ],
+      "targeted_sectors": [
+        "ukraine",
+        "government"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 205,
+    "gold": {
+      "iocs": [
+        "https://forkscenter.fr",
+        "https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761/one.exe",
+        "https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe",
+        "https://nirsoft.me/s/2MYmbwpSJLZRAtXRgNTAUjJSH6SSoicLPIrQl/field-keywords",
+        "http://45.84.0.116:443/i",
+        "forkscenter.fr",
+        "nirsoft.me",
+        "45.84.0.116"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "UAC-0056"
+      ],
+      "malware": [
+        "Cobalt Strike"
+      ],
+      "targeted_sectors": [
+        "ukraine",
+        "government"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 233,
+    "gold": {
+      "iocs": [
+        "ecb-european.eu",
+        "maps.doaglas.com",
+        "47e7212b097b5cffa60903055e3c4d5a"
+      ],
+      "attack_techniques": [
+        "T1193",
+        "T1192",
+        "T1059",
+        "T1117",
+        "T1204",
+        "T1064",
+        "T1037",
+        "T1050",
+        "T1053",
+        "T1060",
+        "T1027",
+        "T1220",
+        "T1063",
+        "T1105"
+      ],
+      "threat_actor": [
+        "Cobalt"
+      ],
+      "malware": [
+        "CobInt",
+        "COM-DLL-Dropper",
+        "more_eggs"
+      ],
+      "targeted_sectors": [
+        "financial",
+        "europe"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 312,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Dragonfly"
+      ],
+      "malware": [
+        "Backdoor.Oldrea",
+        "Trojan.Heriplor",
+        "Trojan.Karagany",
+        "Trojan.Karagany.B",
+        "Trojan.Listrix",
+        "Backdoor.Goodor",
+        "Backdoor.Dorshel",
+        "Trojan.Phisherly",
+        "Phishery",
+        "Shellter",
+        "Screenutil",
+        "PowerShell",
+        "PsExec",
+        "Bitsadmin"
+      ],
+      "targeted_sectors": [
+        "energy",
+        "united states",
+        "turkey",
+        "switzerland",
+        "europe",
+        "north america"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 330,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "OSX_DOK",
+        "WERDLOD"
+      ],
+      "targeted_sectors": [
+        "switzerland",
+        "banking"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 346,
+    "gold": {
+      "iocs": [
+        "139.59.93.223",
+        "207.246.101.153",
+        "155.138.205.35",
+        "45.79.239.23",
+        "95.216.138.82",
+        "194.180.174.6",
+        "185.202.93.201",
+        "185.10.68.235",
+        "185.183.96.147",
+        "185.225.19.246",
+        "185.176.220.198",
+        "5.189.222.161",
+        "46.161.40.172",
+        "23.19.58.52",
+        "feristoaul.com"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "TA505"
+      ],
+      "malware": [
+        "MirrorBlast",
+        "Get2",
+        "FlawedGrace",
+        "KiXtart",
+        "REBOL"
+      ],
+      "targeted_sectors": [
+        "financial",
+        "canada",
+        "united states",
+        "hong kong",
+        "europe"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 373,
+    "gold": {
+      "iocs": [
+        "CVE-2019-11510",
+        "CVE-2018-13379",
+        "CVE-2019-1579",
+        "CVE-2017-0199",
+        "18.221.150.202",
+        "185.32.178.176",
+        "93.177.75.180",
+        "95.211.210.55",
+        "95.211.213.168",
+        "95.211.215.226",
+        "95.211.213.177",
+        "95.211.104.253",
+        "95.211.215.255",
+        "http://95.211.215.225/upd/j.exe",
+        "0f7d3d33d7235b13d0fac4329e0d2420",
+        "41cda77c69614a0fbfcc4a38ebae659b",
+        "6fea7a30b2bd6014c1b15defe8963273",
+        "31b431df84eaf71848c8b172c40124ec"
+      ],
+      "attack_techniques": [
+        "T1002",
+        "T1003",
+        "T1015",
+        "T1021",
+        "T1046",
+        "T1059",
+        "T1064",
+        "T1065",
+        "T1068",
+        "T1074",
+        "T1075",
+        "T1076",
+        "T1081",
+        "T1086",
+        "T1090",
+        "T1094",
+        "T1100",
+        "T1102",
+        "T1105",
+        "T1133",
+        "T1136"
+      ],
+      "threat_actor": [
+        "APT34",
+        "APT33",
+        "APT39"
+      ],
+      "malware": [
+        "STSRCheck",
+        "POWSSHNET",
+        "Port.exe",
+        "JuicyPotato",
+        "Invoke-TheHash",
+        "Ngrok",
+        "Serveo",
+        "FRP",
+        "Putty",
+        "Plink",
+        "ProcDump",
+        "Mimikatz",
+        "WinRAR",
+        "7-Zip"
+      ],
+      "targeted_sectors": [
+        "israel",
+        "united states",
+        "saudi arabia",
+        "lebanon",
+        "kuwait",
+        "uae",
+        "australia",
+        "france",
+        "poland",
+        "germany",
+        "finland",
+        "hungary",
+        "italy",
+        "austria",
+        "it",
+        "telecommunication",
+        "oil and gas",
+        "aviation",
+        "government",
+        "defense",
+        "electricity"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 380,
+    "gold": {
+      "iocs": [
+        "176.119.147.225",
+        "176.57.215.115",
+        "kristom.hopto.org",
+        "kristoffer.hopto.org",
+        "bambinos.bounceme.net",
+        "papir.hopto.org",
+        "sabdja.3utilities.com",
+        "sakira.3utilities.com",
+        "seliconos.3utilities.com",
+        "solod.bounceme.net",
+        "sonik.hopto.org",
+        "tele.3utilities.com",
+        "violina.website",
+        "voyager.myftp.biz",
+        "voyaget.myftp.biz"
+      ],
+      "attack_techniques": [
+        "T1001",
+        "T1043",
+        "T1060",
+        "T1064",
+        "T1071",
+        "T1082",
+        "T1105",
+        "T1107",
+        "T1140",
+        "T1193",
+        "T1204",
+        "T1221"
+      ],
+      "threat_actor": [
+        "Gamaredon"
+      ],
+      "malware": [
+        "Pterodo"
+      ],
+      "targeted_sectors": [
+        "ukraine",
+        "government",
+        "europe"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 404,
+    "gold": {
+      "iocs": [
+        "http://cone.msoftupdates.com:46769",
+        "http://ctwo.msoftupdates.com:46769",
+        "http://cthree.msoftupdates.com:46769",
+        "http://eone.msoftupdates.eu:46769",
+        "http://etwo.msoftupdates.eu:46769",
+        "http://msupdates.mylogisoft.com:46769",
+        "http://coreupdate.msoftupdates.com:46769",
+        "http://updateserver.msoftupdates.eu:46769",
+        "msoftupdates.com"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "The Invincible",
+        "TheMartian"
+      ],
+      "malware": [
+        "GravityRAT"
+      ],
+      "targeted_sectors": [
+        "india"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 443,
+    "gold": {
+      "iocs": [
+        "https://cvg.org/wp-content/uploads/2020/document.zip"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Cloud Atlas"
+      ],
+      "malware": [],
+      "targeted_sectors": [
+        "government",
+        "aerospace"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 466,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [
+        "T1133",
+        "T1059",
+        "T1542",
+        "T1037",
+        "T1562",
+        "T1036",
+        "T1082",
+        "T1090",
+        "T1132",
+        "T1008",
+        "T1071",
+        "T1573",
+        "T1571",
+        "T1041"
+      ],
+      "threat_actor": [
+        "Sandworm"
+      ],
+      "malware": [
+        "Cyclops Blink",
+        "VPNFilter"
+      ],
+      "targeted_sectors": [
+        "ukraine",
+        "republic of korea"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 474,
+    "gold": {
+      "iocs": [
+        "https://google.diragame.com/userf/3002/gogonami.exe",
+        "https://jom.diregame.live/userf/2201/google-game.exe",
+        "http://sw.bos.baidu.com/sw-search-sp/software/df60f52e0e897/qqpcmgr_12.7.18996.207_1328_0.exe",
+        "email.yg9.me",
+        "google.vrthcobj.com",
+        "toa.mygametoa.com",
+        "tob.mygametob.com",
+        "d.diragame.com"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "PseudoManuscrypt",
+        "Glupteba",
+        "Fabookie"
+      ],
+      "targeted_sectors": [
+        "ics",
+        "government",
+        "military-industrial complex",
+        "engineering",
+        "building automation",
+        "energy",
+        "manufacturing",
+        "construction",
+        "utilities",
+        "water management",
+        "russia",
+        "india",
+        "brazil"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 501,
+    "gold": {
+      "iocs": [
+        "c0pywins.is-not-certified.com",
+        "casillas.hicam.net",
+        "casillas45.hopto.org",
+        "casillasmx.chickenkiller.com",
+        "k4l1m3r4.publicvm.com",
+        "mycloudtoolzshop.net",
+        "opendrivecouldrsafinder.com",
+        "rsafinderfirewall.com",
+        "rsapoints.ssl443.org",
+        "rsaupdatr.jumpingcrab.com",
+        "rsause.ntdll.net",
+        "sslwin.moneyhome.biz",
+        "wins10up.16-b.it"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Xtreme RAT",
+        "iSpy Keylogger"
+      ],
+      "targeted_sectors": [
+        "mexico",
+        "el salvador",
+        "guatemala",
+        "argentina",
+        "costa rica",
+        "latin america"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 544,
+    "gold": {
+      "iocs": [
+        "cache-dns-forwarding.com",
+        "cache-dns-preview.com",
+        "cache-dns.com",
+        "cache-docs.com",
+        "cache-pdf.com",
+        "cache-pdf.online",
+        "cache-services.live",
+        "cloud-docs.com",
+        "cloud-drive.live",
+        "cloud-mail.online",
+        "cloud-storage.live",
+        "doc-viewer.com",
+        "docs-cache.com",
+        "docs-drive.online",
+        "docs-forwarding.online",
+        "docs-info.com",
+        "docs-info.online",
+        "docs-shared.com",
+        "docs-shared.online",
+        "docs-view.online",
+        "document-forwarding.com",
+        "document-online.live",
+        "document-preview.com",
+        "document-share.live",
+        "document-view.live",
+        "documents-cloud.com",
+        "documents-cloud.online",
+        "documents-forwarding.com",
+        "documents-online.live",
+        "documents-pdf.online",
+        "documents-preview.com",
+        "documents-view.live",
+        "drive-docs.com",
+        "drive-share.live",
+        "file-milgov.systems",
+        "goo-link.online",
+        "hypertextteches.com",
+        "mail-docs.online",
+        "office-protection.online",
+        "office365-online.live",
+        "officeonline365.live",
+        "online-document.live",
+        "online-storage.live",
+        "online365-office.com",
+        "onlinecloud365.live",
+        "pdf-cache.com",
+        "pdf-cache.online",
+        "pdf-cloud.online",
+        "pdf-docs.online",
+        "pdf-forwarding.online",
+        "pdf-shared.online",
+        "protect-link.online",
+        "protection-checklinks.xyz",
+        "protection-link.online",
+        "protection-office.live",
+        "protectionmail.online",
+        "proton-docs.com",
+        "proton-pdf.online",
+        "proton-reader.com",
+        "proton-view.online",
+        "proton-viewer.com",
+        "relogin-dashboard.online",
+        "safe-connection.online",
+        "safelinks-protect.live",
+        "word-yand.live",
+        "y-ml.co",
+        "yandx-online.cloud"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "SEABORGIUM"
+      ],
+      "malware": [
+        "EvilGinx"
+      ],
+      "targeted_sectors": [
+        "defense",
+        "intelligence consulting",
+        "ngo",
+        "igo",
+        "think tank",
+        "higher education",
+        "united states",
+        "united kingdom",
+        "ukraine",
+        "nato",
+        "baltics",
+        "nordics",
+        "eastern europe"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 549,
+    "gold": {
+      "iocs": [
+        "CVE-2022-22047",
+        "CVE-2021-31199",
+        "CVE-2021-31201",
+        "CVE-2021-28550",
+        "CVE-2021-36948",
+        "acrobatrelay.com",
+        "vultrobjects.com",
+        "demo3.dsirf.eu",
+        "debugmex.dsirflabs.eu",
+        "szstaging.dsirflabs.eu"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "KNOTWEED"
+      ],
+      "malware": [
+        "Subzero",
+        "Corelump",
+        "Jumplump",
+        "Mex",
+        "PassLib",
+        "Mimikatz",
+        "SharpHound3",
+        "Chisel",
+        "Ping Castle",
+        "SharpOxidResolver",
+        "Internal Monologue",
+        "SCShell",
+        "StandIn"
+      ],
+      "targeted_sectors": [
+        "law firms",
+        "banks",
+        "strategic consultancies",
+        "austria",
+        "united kingdom",
+        "panama",
+        "europe",
+        "central america"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 581,
+    "gold": {
+      "iocs": [
+        "realteks.gjdredj.com",
+        "spool.jtjewifyn.com",
+        "blog.toptogear.com",
+        "mon-enews.com",
+        "www.ajtkgygth.com",
+        "news.nyhedmgtxck.com",
+        "dathktdga.com",
+        "www.rrgwmmwgk.com",
+        "dns.jmrmfitym.com",
+        "www.kyemtyjah.com",
+        "rad.geewkmy.com",
+        "cpc.mashresearchb.com",
+        "www.qisxnikm.com",
+        "dns.seekvibega.com",
+        "sugano.trictalmk.com",
+        "bbs.forcejoyt.com",
+        "mopo3.net",
+        "myanmartech.vicp.net",
+        "202.90.141.25"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Naikon"
+      ],
+      "malware": [
+        "Aria-body",
+        "RoyalRoad",
+        "XsFunction"
+      ],
+      "targeted_sectors": [
+        "government",
+        "australia",
+        "indonesia",
+        "philippines",
+        "vietnam",
+        "thailand",
+        "myanmar",
+        "brunei",
+        "apac"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 654,
+    "gold": {
+      "iocs": [
+        "03e499d6e15817f5c7ef0f4f2ffd6d27",
+        "cac313c91582e670f157f988fa13317c",
+        "d878deb55697e89e1d0cdb0c0653744e",
+        "5d12b6262f07e8aa25a0d8a95e437127",
+        "65fefac3c068ea371d9282ab9c2a7274",
+        "c5c8aca9a64af0c1aea58025973d254f",
+        "f9fd08599e65f70b3da6c795b544fac4",
+        "f90ae4b45ba2fe74761ce3eedb20ff50",
+        "fefe9c2d49efff2f32c78688aec15c12"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "APT36"
+      ],
+      "malware": [
+        "Crimson RAT"
+      ],
+      "targeted_sectors": [
+        "defense",
+        "government",
+        "india"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 697,
+    "gold": {
+      "iocs": [
+        "97a5fe1d2174e9d34cee8c1d6751bf01f99d8f40b1ae0bce205b8f2f0483225c",
+        "c11e25278417f985cc968c1e361a0fb0",
+        "f659b269fbe4128588f7a2fa4d6022cc74e508d28eee05c5aff26cc23b7bd1a5",
+        "43ce409c21cad2ef41c9e1725ca12cea",
+        "6c1db6c3d32c921858a4272e8cc7d78280b46bad20a1de23833cbe2956eebf75"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [],
+      "targeted_sectors": [
+        "vietnam",
+        "government"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 714,
+    "gold": {
+      "iocs": [
+        "pretence77.glorious.nonima.ru",
+        "http://pretence77.glorious.nonima.ru/ELENAPC/principles/nearly.mp3",
+        "http://intense52.faithful.onihik.ru/elenapc",
+        "http://intense52.faithful.onihik.ru/ELENAPC/bikes.conf"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "DoNot Team",
+        "Gamaredon",
+        "TA423"
+      ],
+      "malware": [],
+      "targeted_sectors": [
+        "government",
+        "ukraine",
+        "pakistan",
+        "sri lanka",
+        "malaysia",
+        "energy"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 741,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Azov",
+        "SmokeLoader"
+      ],
+      "targeted_sectors": []
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 782,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Lazarus"
+      ],
+      "malware": [
+        "DTrack"
+      ],
+      "targeted_sectors": [
+        "education",
+        "chemical manufacturing",
+        "governmental research centers",
+        "policy institutes",
+        "it service providers",
+        "utility providers",
+        "telecommunications",
+        "germany",
+        "brazil",
+        "india",
+        "italy",
+        "mexico",
+        "switzerland",
+        "saudi arabia",
+        "turkey",
+        "united states"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 822,
+    "gold": {
+      "iocs": [
+        "CVE-2018-8174",
+        "CVE-2015-1701"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "SLUB"
+      ],
+      "targeted_sectors": []
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 825,
+    "gold": {
+      "iocs": [
+        "CVE-2015-3043",
+        "CVE-2015-1701",
+        "defencereview.net",
+        "brnlv-gv.eu",
+        "militaryobserver.net",
+        "netassistcache.com",
+        "asus-service.net",
+        "aolnets.com",
+        "natopress.org",
+        "natopress.com",
+        "defencereview.eu",
+        "intelsupport.net",
+        "globalnewsweekly.com",
+        "osce-oscc.org",
+        "enisa-europa.com",
+        "enisa-europa.org",
+        "techcruncln.com",
+        "nato-hq.com",
+        "iacr-tcc.org",
+        "nato-int.com",
+        "nato-info.com",
+        "bmlv-gv.eu",
+        "foreignreview.com",
+        "mediarea.org",
+        "osce-military.org",
+        "europeanda.com",
+        "softupdates.info",
+        "settings-yahoo.com",
+        "settings-live.com",
+        "delivery-yahoo.com",
+        "privacy-yahoo.com",
+        "privacy-live.com",
+        "westinqhousenuclear.com",
+        "webmail.westinqhousenuclear.com"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Sofacy"
+      ],
+      "malware": [],
+      "targeted_sectors": []
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 838,
+    "gold": {
+      "iocs": [
+        "ralrab.com",
+        "winrar.be",
+        "winrar.it",
+        "tamindir.com",
+        "gezginler.net"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "StrongPity"
+      ],
+      "malware": [],
+      "targeted_sectors": [
+        "italy",
+        "belgium",
+        "turkey",
+        "algeria",
+        "france",
+        "netherlands",
+        "morocco",
+        "cote d'ivoire",
+        "tunisia",
+        "canada",
+        "europe",
+        "north africa"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 898,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Stuxnet"
+      ],
+      "targeted_sectors": [
+        "iran",
+        "nuclear",
+        "critical infrastructure",
+        "ics",
+        "indonesia",
+        "india",
+        "pakistan",
+        "germany",
+        "china",
+        "united states"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 949,
+    "gold": {
+      "iocs": [
+        "CVE-2021-40539",
+        "24.64.36.238",
+        "45.63.62.109",
+        "45.76.173.103",
+        "45.77.121.232",
+        "66.42.98.156",
+        "140.82.17.161",
+        "149.28.93.184",
+        "149.248.11.205",
+        "199.188.59.192",
+        "seed.nkn.org"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Godzilla",
+        "NGLite",
+        "KdcSponge",
+        "PwDump",
+        "WinRAR"
+      ],
+      "targeted_sectors": [
+        "technology",
+        "defense",
+        "healthcare",
+        "energy",
+        "education",
+        "united states"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 958,
+    "gold": {
+      "iocs": [
+        "appzshare.club"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "VajraEleph"
+      ],
+      "malware": [
+        "VajraSpy"
+      ],
+      "targeted_sectors": [
+        "pakistan",
+        "military",
+        "police",
+        "border guards",
+        "special forces",
+        "nepal"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 960,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Vendetta"
+      ],
+      "malware": [
+        "ReZer0",
+        "RoboSki",
+        "NanoCore",
+        "Remcos"
+      ],
+      "targeted_sectors": [
+        "australia",
+        "agriculture",
+        "austria",
+        "romania",
+        "mexico",
+        "egypt"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 961,
+    "gold": {
+      "iocs": [
+        "akamaicdn.ru",
+        "akamainet066.info",
+        "akamainet023.info",
+        "akamainet021.info",
+        "akamainet022.info",
+        "akamainet024.info",
+        "cdnakamai.ru",
+        "notifymail.ru",
+        "mailukr.net",
+        "tech-adobe.dyndns.biz",
+        "185.158.153.222",
+        "94.158.47.228",
+        "195.78.105.23",
+        "94.158.46.251",
+        "188.227.75.189",
+        "212.116.121.46",
+        "185.125.46.24",
+        "5.200.53.181"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "VERMIN",
+        "Quasar RAT",
+        "ConfuserEx"
+      ],
+      "targeted_sectors": [
+        "ukraine",
+        "government",
+        "military"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 969,
+    "gold": {
+      "iocs": [
+        "4bjt2rceijktwedi.onion",
+        "cwwpxpxuswo7b6tr.onion",
+        "043addfb93a10d187dde4999d78096077f26e9fd",
+        "1e3785fc4fe5ab8dab31dddd68257f9a7fc5bf59",
+        "4d7add8145cb096359ebc3e4d44e19c2735e0377",
+        "66d17344a7ce55d05a324e1c6be2ecd817e72680",
+        "69529eed679b0c7f1acc1fd782a4b443cec0cf83",
+        "92f5469dbefdcee1343934be149afc1241cc8497",
+        "a5ce1df767c89bf29d40dc4fa6eaecc9c8979552",
+        "bf98ea1326e5f8c351e68c79b5d1e0164c7be728",
+        "dad50ad3682a3f20b2f35be2a94b89e2b1a73067"
+      ],
+      "attack_techniques": [
+        "T1569",
+        "T1106",
+        "T1543",
+        "T1140",
+        "T1070",
+        "T1036",
+        "T1112",
+        "T1027",
+        "T1083",
+        "T1057",
+        "T1082",
+        "T1016",
+        "T1033",
+        "T1124",
+        "T1560",
+        "T1005",
+        "T1025",
+        "T1573",
+        "T1041"
+      ],
+      "threat_actor": [
+        "Lazarus"
+      ],
+      "malware": [
+        "Vyveva",
+        "NukeSped"
+      ],
+      "targeted_sectors": [
+        "freight logistics",
+        "south africa"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 972,
+    "gold": {
+      "iocs": [
+        "adsmarketart.com",
+        "dns.proactiveads.be",
+        "websitelistbuilder.com",
+        "bettyware.xyz",
+        "wineguroo.xyz",
+        "devicelease.xyz",
+        "guiapocos.xyz",
+        "ludwoodgroup.xyz",
+        "respondcritique.xyz",
+        "triomigratio.xyz",
+        "uplandcaraudio.xyz",
+        "http://lendojekam.xyz/index.php",
+        "http://lgrarcosbann.club/index.php",
+        "http://lpequdeliren.fun/index.php",
+        "http://transvil2.xyz/index.php",
+        "https://szn.services/1.exe",
+        "https://utenti.info/1.exe"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [
+        "Evil Corp"
+      ],
+      "malware": [
+        "WastedLocker",
+        "BitPaymer",
+        "Dridex",
+        "DoppelPaymer",
+        "Gozi",
+        "Cobalt Strike",
+        "SocGholish",
+        "CryptOne",
+        "Donut"
+      ],
+      "targeted_sectors": [
+        "united states",
+        "north america",
+        "western europe"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 995,
+    "gold": {
+      "iocs": [
+        "sl1.homelinux.org",
+        "360.homeunix.com",
+        "ftp2.homeunix.com",
+        "update.ourhobby.com",
+        "blog1.servebeer.com",
+        "3322.org",
+        "filoups.info",
+        "blogsite.org",
+        "ftpaccess.cc"
+      ],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Aurora"
+      ],
+      "targeted_sectors": [
+        "technology",
+        "defense",
+        "chemical"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 1003,
+    "gold": {
+      "iocs": [
+        "dick.mooo.com"
+      ],
+      "attack_techniques": [
+        "T1022"
+      ],
+      "threat_actor": [
+        "Winnti Group"
+      ],
+      "malware": [
+        "Winnti",
+        "iodine",
+        "DSEFix"
+      ],
+      "targeted_sectors": [
+        "chemical",
+        "germany",
+        "video game",
+        "south korea",
+        "taiwan",
+        "pharmaceutical",
+        "technology",
+        "software"
+      ]
+    }
+  },
+  {
+    "dataset": "ctisum_attack",
+    "idx": 1004,
+    "gold": {
+      "iocs": [],
+      "attack_techniques": [],
+      "threat_actor": [],
+      "malware": [
+        "Wiper"
+      ],
+      "targeted_sectors": []
+    }
+  }
+]
