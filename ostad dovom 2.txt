@@ -1,0 +1,501 @@
+شناسه گزارش,نامزد,مؤلفه
+4,Indrik Spider,threat_actor
+4,travel,none
+4,education,none
+4,FSB,none
+4,Treasury,none
+4,government,targeted_sectors
+4,healthcare,targeted_sectors
+4,defense,targeted_sectors
+4,T1490,attack_techniques
+4,Grief,malware
+4,LSASecretsView,malware
+4,Mimikatz,malware
+4,finance,targeted_sectors
+4,OFAC,none
+4,FakeUpdates,malware
+4,commerce,targeted_sectors
+4,CONTENTS2INTRODUCTIONThe,none
+4,T1543,attack_techniques
+4,akamai-technologies.site,iocs
+4,Doppel Spider,threat_actor
+4,telecom,targeted_sectors
+4,doppleshare.top,iocs
+4,The Treasury,none
+4,Evil Corp,threat_actor
+4,AMER ELSAD Threat,none
+4,Dridex,malware
+4,Advanced Persistent Threat,threat_actor
+4,logistics,targeted_sectors
+4,BitPaymer,malware
+4,TinyPos,malware
+4,Yakubets,none
+4,energy,targeted_sectors
+4,Most Wanted,none
+4,T1564.004,attack_techniques
+4,T1543.003,attack_techniques
+4,PsExec,malware
+4,Emotet,malware
+4,TA505,threat_actor
+4,Lockean,threat_actor
+4,TinyLoader,malware
+4,QakBot,malware
+4,DoppelPaymer,malware
+4,ProcDump,malware
+4,Maksim Yakubets,threat_actor
+4,Russian Federal Security,none
+4,DoppelDridex,malware
+4,europe,targeted_sectors
+4,Macaw,malware
+4,atakai-technologies.host,iocs
+4,PowerShell Empire,malware
+4,united states,targeted_sectors
+4,akamai-technologies.space,iocs
+4,FBI,none
+4,WastedLocker,malware
+4,Intelligence AnalystAmer Elsad,none
+4,LaZagne,malware
+4,T1564,attack_techniques
+4,services,targeted_sectors
+4,July,none
+4,ProcessHacker,malware
+4,manufacturing,targeted_sectors
+4,Cobalt Strike,malware
+4,real estate,targeted_sectors
+34,Analyze,none
+34,Antiy CERT,none
+34,Chile,targeted_sectors
+34,IEUpdate.exe,malware
+34,Posted,none
+34,T1113,attack_techniques
+34,T1539,attack_techniques
+34,dl.dropboxusercontent.com,iocs
+34,South Korea,targeted_sectors
+34,IEUpdate,malware
+34,APT38,threat_actor
+34,T1189,attack_techniques
+34,T1005,attack_techniques
+34,T1055,attack_techniques
+34,T1566,attack_techniques
+34,T1082,attack_techniques
+34,Poland,targeted_sectors
+34,Sogang KLEC,targeted_sectors
+34,hvncengine.dll,malware
+34,T1033,attack_techniques
+34,HIDDEN COBRA,threat_actor
+34,WINWORD,none
+34,Peace,none
+34,T1583,attack_techniques
+34,Bitcoin,none
+34,T1010,attack_techniques
+34,United States,targeted_sectors
+34,KlmFl6zLkZwAntiy CERT Antiy,none
+34,Guardians,threat_actor
+34,T1547,attack_techniques
+34,Brazil,targeted_sectors
+34,Zinc,threat_actor
+34,T1012,attack_techniques
+34,T1057,attack_techniques
+34,T1041,attack_techniques
+34,T1204,attack_techniques
+34,KF5HUNe8,none
+34,Language Education Center,targeted_sectors
+34,Sogang University Korean,none
+34,T1056,attack_techniques
+34,south korea,targeted_sectors
+34,Suspected Lazarus Attacks,none
+34,Beijing Recently,none
+34,Mexico,targeted_sectors
+34,COVID,none
+34,T1140,attack_techniques
+34,T1221,attack_techniques
+34,shellengine.dll,malware
+34,T1083,attack_techniques
+34,T1562,attack_techniques
+34,T1559,attack_techniques
+34,T1548,attack_techniques
+34,Against South Koreamp,none
+34,T1071,attack_techniques
+34,Lazarus,threat_actor
+34,T1497,attack_techniques
+34,T1124,attack_techniques
+121,Microsoft Windows,none
+121,Router Solicitation,none
+121,Core Networking,none
+121,ENABLE ALL,none
+121,NBTscan,malware
+121,March,none
+121,Multiple Asian CountriesState,targeted_sectors
+121,Port Scanner,malware
+121,ICMP,none
+121,SNMP Trap Service,none
+121,Broadcom Software,none
+121,defense,targeted_sectors
+121,Actor Targets Cert,none
+121,Certutil,malware
+121,Lotus Blossom,threat_actor
+121,WinRAR,malware
+121,government,targeted_sectors
+121,symantec-enterprise-blogs.security.com,iocs
+121,AdFind,malware
+121,Government Agencies,targeted_sectors
+121,Tracert,malware
+121,Ping,malware
+121,Stowaway,malware
+121,UDP,none
+121,Asian,targeted_sectors
+121,Thrip,threat_actor
+121,asia,targeted_sectors
+121,Winmail,malware
+121,APT,threat_actor
+121,Active Directory,none
+121,Route,malware
+121,Allows,none
+121,certificate authority,targeted_sectors
+121,Billbug,threat_actor
+121,Hannotog,malware
+121,Sagerunex,malware
+133,ukraine,targeted_sectors
+133,BlackEnergy Trojans,malware
+133,Georgia,targeted_sectors
+133,Office,none
+133,Word,none
+133,Microsoft Word,none
+133,ESET,none
+133,Right Sector,targeted_sectors
+133,Excel,none
+133,ics,targeted_sectors
+133,Ukrainian,targeted_sectors
+133,Partners,none
+133,Unlike,none
+133,Autorun,none
+133,Maria Garnaeva,none
+133,BlackEnergy APT,threat_actor
+133,Microsoft,none
+133,Cr4sh,threat_actor
+133,SCADA,targeted_sectors
+133,ICS,targeted_sectors
+133,Interestingly,none
+133,energy,targeted_sectors
+133,Russian,none
+133,Google Translate,none
+133,media,targeted_sectors
+133,BlackEnergy,malware
+133,Kurt Baumgartner,none
+133,Cys Centrum,none
+133,Ukraine,targeted_sectors
+133,kaspersky.com,iocs
+133,government,targeted_sectors
+133,Widely,none
+133,Siemens,targeted_sectors
+180,T-SMB Scan,malware
+180,THREAT ANALYSISBRONZE BUTLER,none
+180,PDF APIThe,none
+180,Gofarer,malware
+180,OCTOBER,none
+180,Intent CTU,none
+180,PDF,none
+180,Sensitive,none
+180,Japanese,targeted_sectors
+180,PRC,none
+180,Mimikatz,malware
+180,gsecdump,malware
+180,Counter Threat Unit,none
+180,RESEARCH TEAM,none
+180,pudn.com,iocs
+180,japan,targeted_sectors
+180,SolutionsServicesCapabilitiesInsightsAboutContactResearch,none
+180,COUNTER THREAT UNIT,none
+180,DGet,malware
+180,Secureworks,none
+180,manufacturing,targeted_sectors
+180,Computer,none
+180,SWCs,none
+180,xxmm,malware
+180,RarStar,malware
+180,Executives,none
+180,CVE-2016-7836,iocs
+180,Japan,targeted_sectors
+180,Targets Japanese Enterprises,none
+180,Windows Credential Editor,malware
+180,critical infrastructure,targeted_sectors
+180,BRONZE BUTLER Targets,none
+180,Summary Secureworks,none
+180,PDF APIRead,none
+180,Daserf,malware
+180,MSGet,malware
+180,WinRAR,malware
+180,People,none
+180,Datper,malware
+180,heavy industry,targeted_sectors
+180,China,none
+180,international relations,targeted_sectors
+180,Japanese Enterprises Login,none
+180,BRONZE BUTLER,threat_actor
+180,Republic,none
+196,Google,none
+196,Windows,none
+196,For Operation Aurora,none
+196,These Recognition Filters,none
+196,Recognition Filter,none
+196,OPERATION AURORAprocesses,none
+196,DiagnosisThe Triumfant,none
+196,CASE STUDY,none
+196,Operation Aurora,threat_actor
+196,The Operation Aurora,none
+196,RemediationThe,none
+196,CIRT,none
+196,OPERATION AURORATriumfant,none
+196,The Triumfant,none
+196,Knowledge BaseTriumfant,none
+196,MD5,none
+196,Anomalous Application,none
+196,Triumfant,none
+196,google,none
+196,Aurora,none
+196,Resolution Manager,none
+196,DetectionThe,none
+196,Incorporated,none
+200,APPDATA,none
+200,svjhost.exe,malware
+200,April,none
+200,Ukraine,targeted_sectors
+200,HTTP POST1,none
+200,http://eumr.site/load74h74830.exe,iocs
+200,ZIP,none
+200,Microsoft,none
+200,http://185.244.41.109:8080/upld,iocs
+200,http://eumr.site/up74987340.exe,iocs
+200,rmm.bat,malware
+200,https://cdn.discordapp.com/attachments/908281957039869965/937420906286952568/d5aadb4ace8ffcc,iocs
+200,OutSteel,malware
+200,UAC-0056,threat_actor
+200,Start Menu,none
+200,SaintBot,malware
+200,Programs,none
+200,Ukraine CERT,none
+200,ukraine,targeted_sectors
+200,Application,none
+200,Valid,none
+200,LOCALAPPDATA,none
+200,http://8003659902.site/wp-adm/gate.php,iocs
+200,http://smm2021.net/wp-adm/gate.php,iocs
+200,National Health Service,targeted_sectors
+200,USER,none
+200,AutoIt,malware
+200,185.244.41.109,iocs
+200,UAGeneral,none
+200,Startup,none
+200,TEMP,none
+200,http://8003659902.space/wp-adm/gate.php,iocs
+200,Windows,none
+200,government,targeted_sectors
+200,testsid@lthhc-zm.com,iocs
+200,Butt,none
+200,Graphic,none
+200,UAC,none
+205,Themida,malware
+205,https://nirsoft.me/s/2MYmbwpSJLZRAtXRgNTAUjJSH6SSoicLPIrQl/field-keywords,iocs
+205,BitdefenderWindowsUpdatePackage,malware
+205,TMP,none
+205,UAC,none
+205,Cyberattack,none
+205,http://45.84.0.116:443/i,iocs
+205,https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,iocs
+205,Cobalt Strike Beacon,malware
+205,https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761/one.exe,iocs
+205,nirsoft.me,iocs
+205,government,targeted_sectors
+205,dropper.exe,malware
+205,forkscenter.fr,iocs
+205,UAC-0056,threat_actor
+205,Cobalt Strike,malware
+205,Ukraine CERT,none
+205,45.84.0.116,iocs
+205,PROGRAMDATA,none
+205,alt.exe,malware
+205,Ukraine,targeted_sectors
+205,ukraine,targeted_sectors
+205,one.exe,malware
+205,General InformationThe Governmental,none
+205,https://forkscenter.fr,iocs
+205,Computer Emergency Response,none
+233,more_eggs,malware
+233,Expert Security Center,none
+233,VHD,none
+233,T1027,attack_techniques
+233,financial,targeted_sectors
+233,Edge,none
+233,COM-DLL-Dropper,malware
+233,updateptsecurity.com,iocs
+233,Zscaler,none
+233,Cobalt,threat_actor
+233,December,none
+233,The VHD,none
+233,ecb-european.eu,iocs
+233,T1053,attack_techniques
+233,September,none
+233,T1063,attack_techniques
+233,NetSupport RAT,malware
+233,CobInt,malware
+233,Microsoft Virtual,none
+233,T1204,attack_techniques
+233,47e7212b097b5cffa60903055e3c4d5a,iocs
+233,T1220,attack_techniques
+233,T1105,attack_techniques
+233,MMC,none
+233,November,none
+233,T1037,attack_techniques
+233,Firefox,none
+233,Chrome,none
+233,europe,targeted_sectors
+233,Safari,none
+233,T1050,attack_techniques
+233,Internet Explorer,none
+233,August,none
+233,T1192,attack_techniques
+233,Will Dorman,none
+233,T1193,attack_techniques
+233,Connectix,none
+233,ESCIn,none
+233,T1059,attack_techniques
+233,European Central Bank,targeted_sectors
+233,Malicious VHD,none
+233,T1117,attack_techniques
+233,T1060,attack_techniques
+233,T1064,attack_techniques
+233,maps.doaglas.com,iocs
+233,Microsoft,none
+233,Blog,none
+233,Currently,none
+233,ETPro,none
+312,Screenutil,malware
+312,Ukraine,targeted_sectors
+312,GitHub,none
+312,European,targeted_sectors
+312,Trojan.Karagany,malware
+312,Goodor,malware
+312,PowerShell,malware
+312,turkey,targeted_sectors
+312,Phisherly,malware
+312,north america,targeted_sectors
+312,Switzerland,targeted_sectors
+312,Karagany,malware
+312,Resurgence,none
+312,July,none
+312,SYMANTEC EMPLOYEECreated,none
+312,Security Response,none
+312,Trojan.Heriplor,malware
+312,Backdoor.Oldrea,malware
+312,December,none
+312,The Dragon,none
+312,PsExec,malware
+312,Shellter,malware
+312,URLs,none
+312,Backdoor.Goodor,malware
+312,Phishery,malware
+312,switzerland,targeted_sectors
+312,Symantec Security Response,none
+312,Europe,targeted_sectors
+312,energy,targeted_sectors
+312,Backdoor.Dorshel,malware
+312,Trojan.Phisherly,malware
+312,united states,targeted_sectors
+312,Cisco,none
+312,Flash,none
+312,Trojan.Karagany.B,malware
+312,Bitsadmin,malware
+312,Heriplor,malware
+312,europe,targeted_sectors
+312,Turkey,targeted_sectors
+312,New Year,none
+312,Dorshel,malware
+312,Windows,none
+312,Trojan.Listrix,malware
+312,North America,targeted_sectors
+312,Dragonfly,threat_actor
+312,VotesSymantec,none
+330,Arrival Method,none
+330,OSX_DOK,malware
+330,Trend Micro,none
+330,User Network,none
+330,Middle,none
+330,OSX,none
+330,Zahlungsinformationen,none
+330,Home,none
+330,Threats Analyst,none
+330,Posted,none
+330,Zurich,targeted_sectors
+330,switzerland,targeted_sectors
+330,Swiss,targeted_sectors
+330,Operation Emmental Hijacks,none
+330,July,none
+330,Operation Emmental,threat_actor
+330,Banking Trojans,malware
+330,Apple,none
+330,WERDLOD,malware
+330,Detected,none
+330,Malware Author,none
+330,Security Intelligence BlogGo,none
+330,banking,targeted_sectors
+330,Windows,none
+330,MitM,none
+330,OSX Malware Linked,none
+330,twitter.com,iocs
+330,Malware Linked,none
+330,Infection FlowFigure,none
+330,Rubio,none
+330,Trend MicroAbout TrendLabs,none
+346,financial,targeted_sectors
+346,Morphisec Labs,none
+346,Office,none
+346,Explosive New MirrorBlast,none
+346,VirusTotal,none
+346,5.189.222.161,iocs
+346,Excel DocumentThe Excel,none
+346,canada,targeted_sectors
+346,These URLs,none
+346,FlawedGrace,malware
+346,europe,targeted_sectors
+346,Russia,none
+346,FUD Excel,none
+346,155.138.205.35,iocs
+346,Canada,targeted_sectors
+346,95.216.138.82,iocs
+346,185.10.68.235,iocs
+346,23.19.58.52,iocs
+346,KiXtart,malware
+346,hong kong,targeted_sectors
+346,MirrorBlastTechnical,none
+346,Companiesblog,none
+346,September,none
+346,SharePoint,none
+346,Campaign Targets Financial,none
+346,Points,none
+346,MirrorBlast,malware
+346,Get2,malware
+346,185.225.19.246,iocs
+346,Europe,targeted_sectors
+346,45.79.239.23,iocs
+346,46.161.40.172,iocs
+346,April,none
+346,Excel,none
+346,United States,targeted_sectors
+346,TA505,threat_actor
+346,185.183.96.147,iocs
+346,The Morphisec Labs,none
+346,GetandGo,malware
+346,194.180.174.6,iocs
+346,German,targeted_sectors
+346,Labs,none
+346,185.202.93.201,iocs
+346,REBOL,malware
+346,Hong Kong,targeted_sectors
+346,185.176.220.198,iocs
+346,Google,none
+346,Dubbed,none
+346,united states,targeted_sectors
+346,Companiesblog.morphisec.com,iocs
+346,feristoaul.com,iocs
+346,207.246.101.153,iocs
+346,139.59.93.223,iocs
